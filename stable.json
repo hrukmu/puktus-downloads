@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "channel": "stable",
+  "generated_at": "2026-09-16T18:58:21Z",
+  "releases": [
+    {
+      "version": "0.2.0",
+      "platform": "linux-x64",
+      "url": "https://github.com/hrukmu/puktus-downloads/releases/download/v0.2.0/puktus-0.2.0-linux-x64.zip",
+      "sha256": "9dffd7b8f503a33123ba633a576ca43d8f9634547910cf50a7cea9983c3024b3",
+      "size": 201200704,
+      "hermes_version": "0.20.6",
+      "schema_version": 13
+    },
+    {
+      "version": "0.2.0",
+      "platform": "macos-arm64",
+      "url": "https://github.com/hrukmu/puktus-downloads/releases/download/v0.2.0/puktus-0.2.0-macos-arm64.zip",
+      "sha256": "84dc1800dd91f81ed633696d186fae6ed127fc92a170a807e75e84e4361317ec",
+      "size": 176583897,
+      "hermes_version": "0.20.6",
+      "schema_version": 13
+    },
+    {
+      "version": "0.2.0",
+      "platform": "windows-x64",
+      "url": "https://github.com/hrukmu/puktus-downloads/releases/download/v0.2.0/puktus-0.2.0-windows-x64.zip",
+      "sha256": "945f1b79d069a7a21bb8d80bf8cf17969bdd050597c7675a000b97c8d619b3c6",
+      "size": 168069035,
+      "hermes_version": "0.20.6",
+      "schema_version": 13
+    }
+  ],
+  "signature": "d1AcKXU2dEHnDgVsqCAetDr8giKyTzxe2K0LX/OOhu6AY3U+Cqx+6THucDL0CjO9E9Zwjb0ld1GbIm4CSDXXBQ=="
+}
