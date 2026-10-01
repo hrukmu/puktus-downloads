@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "channel": "stable",
-  "generated_at": "2026-09-16T18:58:21Z",
+  "generated_at": "2026-10-01T17:15:00Z",
   "releases": [
     {
       "version": "0.2.0",
@@ -13,6 +13,15 @@
       "schema_version": 13
     },
     {
+      "version": "0.3.0",
+      "platform": "linux-x64",
+      "url": "https://github.com/hrukmu/puktus-downloads/releases/download/v0.3.0/puktus-0.3.0-linux-x64.zip",
+      "sha256": "1ca01c36e1a259c168d4fe0e772110404b2616d1a024609491cf21c54e8a2dd9",
+      "size": 329688750,
+      "hermes_version": "0.21.5",
+      "schema_version": 21
+    },
+    {
       "version": "0.2.0",
       "platform": "macos-arm64",
       "url": "https://github.com/hrukmu/puktus-downloads/releases/download/v0.2.0/puktus-0.2.0-macos-arm64.zip",
@@ -22,6 +31,24 @@
       "schema_version": 13
     },
     {
+      "version": "0.3.0",
+      "platform": "macos-arm64",
+      "url": "https://github.com/hrukmu/puktus-downloads/releases/download/v0.3.0/puktus-0.3.0-macos-arm64.zip",
+      "sha256": "80f7ac53954688ce10f75bf2dc86d0f88e56b621121db676cdb3098d077ee065",
+      "size": 296953556,
+      "hermes_version": "0.21.5",
+      "schema_version": 21
+    },
+    {
+      "version": "0.3.0",
+      "platform": "macos-x64",
+      "url": "https://github.com/hrukmu/puktus-downloads/releases/download/v0.3.0/puktus-0.3.0-macos-x64.zip",
+      "sha256": "2f2bb971a76d220a41038cbee4df9c441a3725c54d8bdd720c0d6dc36df0b889",
+      "size": 282045471,
+      "hermes_version": "0.21.5",
+      "schema_version": 21
+    },
+    {
       "version": "0.2.0",
       "platform": "windows-x64",
       "url": "https://github.com/hrukmu/puktus-downloads/releases/download/v0.2.0/puktus-0.2.0-windows-x64.zip",
@@ -29,7 +56,16 @@
       "size": 168069035,
       "hermes_version": "0.20.6",
       "schema_version": 13
+    },
+    {
+      "version": "0.3.0",
+      "platform": "windows-x64",
+      "url": "https://github.com/hrukmu/puktus-downloads/releases/download/v0.3.0/puktus-0.3.0-windows-x64.zip",
+      "sha256": "30e942353e3c9468a1321e6a69317d465509d51928e3b755d29483728815b297",
+      "size": 376568913,
+      "hermes_version": "0.21.5",
+      "schema_version": 21
     }
   ],
-  "signature": "d1AcKXU2dEHnDgVsqCAetDr8giKyTzxe2K0LX/OOhu6AY3U+Cqx+6THucDL0CjO9E9Zwjb0ld1GbIm4CSDXXBQ=="
+  "signature": "qJkIl4CRCt6tNZofuUaYFagJTCG0lcuv8jZlMZTO7Sa10JGAIdJo0MgCiraaohhFLfsy09jCuMpfEyi9gjCGAQ=="
 }
